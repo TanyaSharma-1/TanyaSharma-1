@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tanya 
-- 👀 I’m interested in Machine Learning 
-- 🌱 I’m currently learning CUDA and ML
+- 👀 I’m interested in Robotics
+- 🌱 I’m currently learning Arduino and ML
 - 💞️ I’m looking to collaborate on innovative projects
 - 😄 Pronouns: she/he
 
